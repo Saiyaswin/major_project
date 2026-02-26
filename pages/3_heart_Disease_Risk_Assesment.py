@@ -470,6 +470,6 @@ null10_0, row10_1, row10_2 = st.columns((0.04, 7, 0.4))
 with row10_1:
     st.write("""
         ### Contacts
-        [![](https://img.shields.io/badge/GitHub-Follow-informational)](https://github.com/AbhaySingh71)
-        [![](https://img.shields.io/badge/Linkedin-Connect-informational)](https://www.linkedin.com/in/abhay-singh-050a5b293/)
+        [![](https://img.shields.io/badge/GitHub-Follow-informational)](https://github.com/Saiyaswin)
+        [![](https://img.shields.io/badge/Linkedin-Connect-informational)](https://www.linkedin.com/in/vechham-sai-yaswin-2469852b0/)
     """)

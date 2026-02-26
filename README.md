@@ -211,6 +211,6 @@ pip install -r requirements.txt
 
 ## 👤 Author
 
-Made with ❤️ by **Abhay**
-- [GitHub](https://github.com/AbhaySingh71)
-- © 2025
+Made with ❤️ by **Sai**
+- [GitHub](https://github.com/Saiyaswin)
+- © 2026
